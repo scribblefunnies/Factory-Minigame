@@ -13,24 +13,24 @@ and hotbar gets replaced with members of that catagory.
 Drop item to go back
 
 ### Current plan:
-- ~detect right clicks~
-- ~raycast position~
-- ~place a structure~
-- ~place more stuctures~
-- rotate and flip structures
-- deleate structures
-- full ui
+- ~Detect right clicks~
+- ~Raycast position~
+- ~Place a structure~
+- ~Place more stuctures~
+- Rotate and flip structures
+- Delete structures
+- Full UI
 
 ## Finished:
-- basic conveyor designs
+- Basic conveyor designs
 
 ## Still need:
-- core of the factory
-- conveyors
-- mobs that can break defenses/the factory itself
-- grace period
-- walls, traps, etc.
+- Core of the factory
+- Conveyors
+- Mobs that can break defenses/the factory itself
+- Grace period
+- Walls, traps, etc.
 
 ## Possible changes?
-- make it into a strategy game where you can send mobs to another factory (too complex even for this?)
+- Make it into a strategy game where you can send mobs to another factory (too complex even for this?)
 
