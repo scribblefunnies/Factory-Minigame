@@ -18,7 +18,7 @@ Drop item to go back
 - ~place a structure~
 - ~place more stuctures~
 - rotate and flip structures
-- deleate structurs
+- deleate structures
 - full ui
 
 ## Finished:
